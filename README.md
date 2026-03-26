@@ -28,7 +28,7 @@
 
 ```typescript
 const QuyenTran = {
-  name:       "Trần Á Quyên",
+  name:       "Trần A Quyền",
   alias:      "QuyenTran04",
   school:     "Hutech University 🎓",
   major:      "Information Technology",
