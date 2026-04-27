@@ -104,10 +104,8 @@ const QuyenTran = {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 **[Job-Management-System](https://github.com/NguyenSonnt04/job-management-system)** | AI-Powered Job Management System — multi-role platform (Admin, Employer, Candidate) with intelligent CV matching & automated recruitment | Java, Spring Boot, Python AI, MySQL, Docker | ✅ Group Project |
-| 🎓 **LMS-Server** | Backend API for a Learning Management System with authentication, course & user management | Node.js, Express, MongoDB | ✅ Active |
-| 💻 **Client** | Responsive frontend web application with modern UI components | JavaScript, HTML/CSS | ✅ Active |
-| 🔐 **BMTTNC** | Network security and cryptography exercises & implementations | Python | 📚 Academic |
-| 🎨 **GTH-Project-2026** | UI/UX focused design project with advanced CSS techniques | CSS, HTML | 🔨 In Progress |
+| 🎓 **LMS-Server** | Server-side API for the Learning Management System, powering the shared client-server project with authentication, courses & user management | Node.js, Express, MongoDB | ✅ Active |
+| 💻 **Client** | Client-side web application for the same Learning Management System, connected to LMS-Server for a complete client-server workflow | JavaScript, HTML/CSS | ✅ Active |
 
 ---
 
