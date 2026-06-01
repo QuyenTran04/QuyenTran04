@@ -27,26 +27,19 @@ I am **Trần A Quyền**, an Information Technology student at HUTECH Universit
 
 My current work centers on JavaScript-based web development, especially React on the client side and Node.js/Express on the server side. I am also strengthening my foundation in Java, database design, REST APIs, authentication, system design, and workflow automation.
 
-```typescript
-const quyenTran = {
-  name: "Trần A Quyền",
-  username: "QuyenTran04",
-  education: "Information Technology - HUTECH University",
-  focus: "Full-stack web development",
-  strengths: [
-    "REST API development",
-    "Client-server architecture",
-    "Database-backed applications",
-    "Clean and readable code"
-  ],
-  currentlyLearning: [
-    "React application structure",
-    "Node.js backend architecture",
-    "n8n automation & workflows",
-    "System design fundamentals"
-  ]
-};
-```
+### 🔍 Profile Highlights
+* 🎓 **Education:** Information Technology Student at **HUTECH University**
+* 🎯 **Focus:** Full-Stack Web Development (React / Node.js)
+* 🧠 **Core Strengths:**
+  * Developing secure and efficient **REST APIs**
+  * Building scalable **Client-Server Architecture**
+  * Designing structured **Database-backed applications**
+  * Writing **clean, self-documenting code**
+* 🚀 **Currently Exploring & Learning:**
+  * Advanced React structure & state management
+  * Enterprise Node.js backend architecture
+  * Workflow automation & integrations with **n8n**
+  * System design & software architecture fundamentals
 
 ---
 
