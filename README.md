@@ -1,34 +1,31 @@
 <div align="center">
 
-<!-- Animated header -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:16213E,100:0F3460&height=220&section=header&text=Tr%E1%BA%A7n%20A%20Quy%E1%BB%81n&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=58&descColor=C9D1D9&descSize=18"
-  width="100%"
-  alt="Trần A Quyền - Full-Stack Web Developer"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=760&lines=Building+clean+and+practical+web+applications;Focused+on+React%2C+Node.js%2C+Express+and+MongoDB;Learning+system+design+and+backend+architecture;Open+to+internship+and+collaboration+opportunities"
-    alt="Typing animation"
-  />
-</a>
+<!-- Glassmorphic Header Banner -->
+<img src="./assets/header.svg" width="100%" alt="Trần A Quyền - Full-Stack Web Developer" />
 
 <br/>
+<br/>
 
-[GitHub](https://github.com/QuyenTran04) ·
-[LinkedIn](https://www.linkedin.com/in/tran-a-quyen) ·
-[Email](mailto:tranaquyen0904@gmail.com)
+<!-- Quick Social Links -->
+<a href="https://github.com/QuyenTran04">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/tran-a-quyen">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:tranaquyen0904@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
-I am Trần A Quyền, an Information Technology student at HUTECH University and a full-stack web developer focused on building practical, maintainable applications. I enjoy turning product requirements into clear user flows, reliable APIs, and interfaces that are simple to use.
+I am **Trần A Quyền**, an Information Technology student at HUTECH University and a full-stack web developer focused on building practical, maintainable applications. I enjoy turning product requirements into clear user flows, reliable APIs, and interfaces that are simple to use.
 
-My current work centers on JavaScript-based web development, especially React on the client side and Node.js/Express on the server side. I am also strengthening my foundation in Java, Python, database design, REST APIs, authentication, and system design.
+My current work centers on JavaScript-based web development, especially React on the client side and Node.js/Express on the server side. I am also strengthening my foundation in Java, database design, REST APIs, authentication, system design, and workflow automation.
 
 ```typescript
 const quyenTran = {
@@ -45,6 +42,7 @@ const quyenTran = {
   currentlyLearning: [
     "React application structure",
     "Node.js backend architecture",
+    "n8n automation & workflows",
     "System design fundamentals"
   ]
 };
@@ -52,67 +50,62 @@ const quyenTran = {
 
 ---
 
-## Technical Skills
+## 🛠️ Featured Projects
 
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, Python, Java, HTML, CSS |
-| Frontend | React, Bootstrap, Responsive Web Design |
-| Backend | Node.js, Express.js, Spring Boot |
-| Databases | MongoDB, MySQL |
-| Tools | Git, GitHub, VS Code, Postman, Docker |
-
----
-
-## Featured Projects
-
-| Project | Role | Description | Tech Stack | Status |
-| --- | --- | --- | --- | --- |
-| [Job Management System](https://github.com/NguyenSonnt04/job-management-system) | Backend and AI collaboration | Multi-role recruitment platform for admins, employers, and candidates with CV matching and recruitment workflow support. | Java, Spring Boot, Python, MySQL, Docker | Group project |
-| [LMS-Server](https://github.com/QuyenTran04/LMS-Server) | Server side | Backend API for a Learning Management System, handling authentication, courses, users, and core application data for the shared client-server project. | Node.js, Express.js, MongoDB | Active |
-| [Client](https://github.com/QuyenTran04/Client) | Client side | Frontend web application for the same Learning Management System, connected to LMS-Server to deliver the complete user experience. | JavaScript, HTML, CSS | Active |
-
----
-
-## Current Focus
-
-- Building complete full-stack web applications from frontend to backend.
-- Improving backend architecture, API design, and authentication flows.
-- Practicing clean code, maintainable project structure, and Git-based collaboration.
-- Preparing for software development internship opportunities.
-
----
-
-## GitHub Activity
+We design systems with microservice mindset and clean client-server boundaries. Click on the cards below to explore the repositories:
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=QuyenTran04&show_icons=false&theme=github_dark&hide_border=true&border_radius=8&count_private=true&include_all_commits=true"
-  height="165"
-  alt="GitHub statistics"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuyenTran04&layout=compact&theme=github_dark&hide_border=true&border_radius=8"
-  height="165"
-  alt="Top languages"
-/>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="380" align="center" valign="top" style="border: none;">
+      <a href="https://github.com/QuyenTran04/Client">
+        <img src="./assets/project_lms.svg" width="380" alt="LMS Client-Server" />
+      </a>
+    </td>
+    <td width="380" align="center" valign="top" style="border: none;">
+      <a href="https://github.com/NguyenSonnt04/job-management-system">
+        <img src="./assets/project_job.svg" width="380" alt="Job Management System" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💻 Technical Skills
+
+<div align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Technical Skills Board" />
+</div>
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=QuyenTran04&show_icons=true&title_color=00f0ff&text_color=94a3b8&icon_color=00f0ff&bg_color=050a12&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+    </td>
+    <td valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuyenTran04&layout=compact&title_color=00f0ff&text_color=94a3b8&bg_color=050a12&hide_border=true&border_radius=12" height="165" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=QuyenTran04&theme=github-dark-blue&hide_border=true&border_radius=8"
-  width="70%"
-  alt="GitHub streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=QuyenTran04&theme=tokyonight&hide_border=true&border_radius=12" width="70%" alt="GitHub streak" />
 
 <br/>
+<br/>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=QuyenTran04&theme=github-compact&hide_border=true&radius=8"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=QuyenTran04&theme=react-dark&hide_border=true&radius=12" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -124,13 +117,6 @@ const quyenTran = {
 
 I am open to internships, collaboration, and projects where I can contribute, learn, and grow as a software developer.
 
-[Connect on LinkedIn](https://www.linkedin.com/in/tran-a-quyen) ·
-[Send Email](mailto:tranaquyen0904@gmail.com)
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F3460,50:16213E,100:0D1117&height=120&section=footer&animation=fadeIn"
-  width="100%"
-  alt="Footer wave"
-/>
+[Connect on LinkedIn](https://www.linkedin.com/in/tran-a-quyen) · [Send Email](mailto:tranaquyen0904@gmail.com)
 
 </div>
