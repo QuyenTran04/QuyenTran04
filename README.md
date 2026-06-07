@@ -23,12 +23,12 @@
 
 ## About Me
 
-I am **Trần A Quyền**, an Information Technology student at HUTECH University and a full-stack web developer focused on building practical, maintainable applications. I enjoy turning product requirements into clear user flows, reliable APIs, and interfaces that are simple to use.
+I am **Trần A Quyền**, an Information Technology student and a full-stack web developer focused on building practical, maintainable applications. I enjoy turning product requirements into clear user flows, reliable APIs, and interfaces that are simple to use.
 
 My current work centers on JavaScript-based web development, especially React on the client side and Node.js/Express on the server side. I am also strengthening my foundation in Java, database design, REST APIs, authentication, system design, and workflow automation.
 
 ### Profile Highlights
-* **Education:** Information Technology Student at **HUTECH University**
+* **Major:** Information Technology
 * **Focus:** Full-Stack Web Development (React / Node.js)
 * **Core Strengths:**
   * Developing secure and efficient **REST APIs**
